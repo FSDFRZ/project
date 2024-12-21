@@ -1,0 +1,84 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(219, 204, 204);
+}
+
+header {
+    background-color: #ffe928;
+    padding: 20px;
+  text-align: center;
+  border-radius: 24px;
+      border: 1px solid black;
+}
+
+header a {
+    color: black;
+    background-color: red;
+    font-size: 40px;
+    text-decoration: none;
+    border: 1px solid white;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
+
+header img {
+    width: 200px;
+    height: 120px;
+}
+
+.sp_button {
+    background-color: red;
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    background-color: red;
+    color: black;
+    font-size: 30px;
+    padding: 10px;
+        border: 1px solid black;
+    border-radius: 18px;
+}
+
+main p {
+    font-size: 20px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: #ffe928;
+}
+
+p img {
+    height: 150px;
+    width: 200px;
+}
+
+.nb_news {
+    background-color: navy;
+    color: red;
+}
+
+footer {
+    background-color: black;
+    padding: 10px;
+}
+
+footer p {
+    background-color: yellow;
+    padding: 5px;
+}
+
+nav{
+    margin:16px;
+}
+
+img{
+    border-radius: 18px;
+}
